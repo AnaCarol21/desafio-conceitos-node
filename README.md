@@ -15,7 +15,7 @@ Uma aplicação para armazenar repositórios do seu portfólio, permitindo cria�
 
 Clonar o repositório
 ```
-$ git clone URL
+$ git clone https://github.com/AnaCarol21/desafio-conceitos-node.git
 ```
 Instalar todas as dependências
 ```
