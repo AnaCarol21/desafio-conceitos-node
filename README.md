@@ -3,8 +3,7 @@
 <h3 align = "center"> Desafio 02 de conceitos de Node.js do Bootcamp GoStack </h3>
 <p align="center">
   <a href="#dart-qual-objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#sparkles-como-usar-esta-aplicação">Como usar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#sparkles-como-usar-esta-aplicação">Como usar?</a>
 </p>
 
 
